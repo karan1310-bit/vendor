@@ -49,7 +49,7 @@ export default async function VendorListPage() {
         </div>
         <Link
           href="/"
-          className="inline-block mb-4 text-sm border border-gray-300 px-3 py-1 rounded hover:text-gray-600"
+          className="inline-block mt-4 text-sm border border-gray-300 px-3 py-1 rounded hover:text-gray-600"
         >
           ← Back to Home
         </Link>
